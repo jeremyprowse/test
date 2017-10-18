@@ -1,3 +1,7 @@
 {
-	"text" : "hello world"
+	"posts" : [
+		{
+			"text" : "hello world"
+		}
+	]
 }
